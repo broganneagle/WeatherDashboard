@@ -1,4 +1,4 @@
-# HW6
+# Weather Dashboard
 
 ## User Story
 
